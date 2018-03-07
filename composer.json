@@ -1,0 +1,8 @@
+{
+    "name": "pixelbrackets/hello-heroku-world",
+    "description": "Hello World Heroku Test App",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "require": {
+    }
+}
