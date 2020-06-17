@@ -1,0 +1,5 @@
+{
+  "name": "Hello World Heroku Test App",
+  "description": "A Heroku PHP Demo App",
+  "repository": "https://gitlab.com/pixelbrackets/hello-heroku-world"
+}
